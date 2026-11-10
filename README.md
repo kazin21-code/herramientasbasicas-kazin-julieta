@@ -14,7 +14,7 @@ Tabla_F1_original: https://docs.google.com/spreadsheets/d/1pxYFYUq54JfQHz-hoF2_b
 
 Data_set_limpio: https://docs.google.com/spreadsheets/d/1FKsrlgMCt_xVqG-K-zELp7HbFJUIN1NjbdhHFkf8Ic4/edit?gid=479168240#gid=479168240
 
-# Objetivo
+# Objetivos
 Se plantearon una pregunta principal y 3 subpreguntas que se pueden resolver a partir del date set elegido:
 
 **Pregunta principal**
@@ -40,6 +40,8 @@ Se plantearon una pregunta principal y 3 subpreguntas que se pueden resolver a p
 4- **EDA**: análisis cualitativo y cuantitativo, con 5 gráficos interpretados.
 
 5- **Dashboard en Power BI**: 3 KPIs, 4 gráficos y un panel de filtros por temporada, escudería y piloto.
+
+# Hallazgos
 
 
 
