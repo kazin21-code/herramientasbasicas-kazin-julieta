@@ -107,6 +107,8 @@ El dashboard fue desarrollado en Power BI e incluye:
 
 # Conclusión
 
-El proyecto permitió aplicar un flujo completo de trabajo de análisis de datos, desde la limpieza y transformación de información hasta la generación de visualizaciones e indicadores para responder preguntas de negocio.
+El proyecto permitió aplicar un flujo completo de trabajo de análisis de datos, desde la limpieza y transformación de la información hasta la generación de visualizaciones, lo que permitió obtener los elementos necesarios para responder las preguntas planteadas sobre la evolución de la Fórmula 1 a lo largo de los años.
 
 El análisis evidenció tendencias relevantes en el rendimiento de las escuderías, la evolución de los abandonos y la importancia de la posición de largada en los resultados obtenidos.
+
+Es importante aclarar que los abandonos durante una carrera pueden deberse a múltiples factores, como problemas técnicos en el monoplaza, errores en las paradas en boxes, incidentes con otros vehículos o accidentes en pista. Por este motivo, la disminución observada en la cantidad de abandonos a lo largo de los años puede asociarse, en parte, a mejoras en la fiabilidad de los autos y de sus componentes mecánicos.
